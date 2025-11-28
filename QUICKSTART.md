@@ -14,7 +14,7 @@ Get up and running with MaestroAI in 5 minutes!
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/MaestroAI.git
+git clone https://github.com/tahammnour/MaestroAI.git
 cd MaestroAI
 
 # Create virtual environment

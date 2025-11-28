@@ -188,7 +188,7 @@ Big organizations drown in repetitive tickets—password resets, license lookups
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/MaestroAI.git
+git clone https://github.com/tahammnour/MaestroAI.git
 cd MaestroAI
 
 # Create virtual environment
@@ -213,6 +213,19 @@ python api/main.py
 
 ## 📦 Deployment Guide
 
+### Azure CLI Setup (Recommended)
+
+**🚀 Complete Azure CLI commands for creating all resources and uploading datasets:**
+
+See [AZURE_CLI_SETUP.md](./AZURE_CLI_SETUP.md) for comprehensive Azure CLI commands including:
+- Creating all Azure resources (OpenAI, Cosmos DB, Cognitive Search, Functions, etc.)
+- Downloading datasets (Hugging Face, Kaggle)
+- Uploading datasets to Azure Storage and Cosmos DB
+- Indexing documents in Cognitive Search
+- Complete setup script
+
+### Manual Deployment
+
 See [DEPLOYMENT.md](./DEPLOYMENT.md) for detailed step-by-step Azure deployment instructions.
 
 ### Quick Deploy
@@ -232,6 +245,7 @@ MaestroAI/
 ├── README.md                 # This file
 ├── ARCHITECTURE.md           # Detailed architecture documentation
 ├── DEPLOYMENT.md             # Step-by-step Azure deployment guide
+├── AZURE_CLI_SETUP.md        # Complete Azure CLI commands guide
 ├── requirements.txt          # Python dependencies
 ├── .env.example              # Environment variables template
 ├── deploy.sh                 # Automated deployment script

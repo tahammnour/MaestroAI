@@ -390,7 +390,7 @@ az apim create \
   --resource-group $RESOURCE_GROUP \
   --location $LOCATION \
   --sku-name $APIM_SKU \
-  --publisher-email "your-email@example.com" \
+  --publisher-email "tahammnour@outlook.com" \
   --publisher-name "MaestroAI Team"
 ```
 

@@ -17,7 +17,7 @@ Be respectful, inclusive, and collaborative. We're all here to build something g
 ## 🚀 Getting Started
 
 1. Fork the repository
-2. Clone your fork: `git clone https://github.com/yourusername/MaestroAI.git`
+2. Clone your fork: `git clone https://github.com/tahammnour/MaestroAI.git`
 3. Create a branch: `git checkout -b feature/your-feature-name`
 4. Make your changes
 5. Test your changes
