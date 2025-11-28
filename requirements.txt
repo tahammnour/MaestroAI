@@ -1,0 +1,49 @@
+# MaestroAI - HR Service Desk Auto-Resolution System
+# Python Dependencies
+
+# Azure SDK
+azure-identity>=1.15.0
+azure-cosmos>=4.5.1
+azure-search-documents>=11.4.0
+azure-storage-blob>=12.19.0
+azure-keyvault-secrets>=4.7.0
+azure-functions>=1.18.0
+azure-ai-textanalytics>=5.3.0
+
+# OpenAI
+openai>=1.12.0
+
+# Web Framework
+fastapi>=0.109.0
+uvicorn[standard]>=0.27.0
+pydantic>=2.5.0
+pydantic-settings>=2.1.0
+
+# HTTP Client
+httpx>=0.26.0
+requests>=2.31.0
+
+# Data Processing
+pandas>=2.1.4
+numpy>=1.26.3
+
+# Environment Variables
+python-dotenv>=1.0.0
+
+# Logging
+structlog>=24.1.0
+
+# Testing
+pytest>=7.4.4
+pytest-asyncio>=0.23.3
+pytest-cov>=4.1.0
+
+# Utilities
+python-dateutil>=2.8.2
+typing-extensions>=4.9.0
+
+# Dataset Handling
+datasets>=2.16.0
+pandas>=2.1.4
+kaggle>=1.5.16
+
