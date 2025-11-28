@@ -2,6 +2,8 @@
 
 <div align="center">
 
+<img src="maestrologoai.png" alt="MaestroAI Logo" width="300"/>
+
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
@@ -72,6 +74,14 @@ Big organizations drown in repetitive tickets—password resets, license lookups
 ---
 
 ## 🏗️ Architecture
+
+<div align="center">
+
+<img src="arch.jpg" alt="MaestroAI Architecture" width="800"/>
+
+</div>
+
+### Detailed Architecture Diagram
 
 ```
 ┌─────────────────────────────────────────────────────────────┐
@@ -273,8 +283,11 @@ MaestroAI/
 
 ## 🎬 Demo
 
-### Demo Video
-[Link to demo video will be added]
+### 📄 Project Documentation
+
+- 📊 **[Full Presentation](./Presentation%20-%20MaestroAI.pdf)** - Complete project presentation
+- 📋 **[HR Service Desk Overview](./MaestroAI%20Intelligent%20HR%20Service%20Desk.pdf)** - Detailed HR Service Desk documentation
+- 🖼️ **[Visual Presentation](./Presentation%20-%20MaestroAI%20Intelligent%20HR%20Support.png)** - Visual presentation image
 
 ### Demo Scenarios
 
@@ -330,18 +343,18 @@ This project is licensed under the MIT License - see the [LICENSE](./LICENSE) fi
 
 ## 👥 Team
 
-- **Team Member 1** - Role
-- **Team Member 2** - Role
-- **Team Member 3** - Role
+- **Taha Nour El-Dein** - Developer & Architect
+  - 📧 Email: tahammnour@outlook.com
+  - 👤 GitHub: [@tahammnour](https://github.com/tahammnour)
 
 ---
 
 ## 📞 Support
 
 For questions or support:
-- 📧 Email: msdev@microsoft.com
-- 💬 Discussions: [GitHub Discussions](https://github.com/yourusername/MaestroAI/discussions)
-- 📖 Documentation: [Full Documentation](./docs/)
+- 📧 Email: tahammnour@outlook.com
+- 💬 Discussions: [GitHub Discussions](https://github.com/tahammnour/MaestroAI/discussions)
+- 📖 Documentation: See [ARCHITECTURE.md](./ARCHITECTURE.md) and [DEPLOYMENT.md](./DEPLOYMENT.md)
 
 ---
 
